@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asimshakoor11/FrontendCapstone.git/static/css/main.073c9b0a.css",
+    "main.js": "/asimshakoor11/FrontendCapstone.git/static/js/main.4393616a.js",
+    "static/js/787.62fe34f1.chunk.js": "/asimshakoor11/FrontendCapstone.git/static/js/787.62fe34f1.chunk.js",
+    "index.html": "/asimshakoor11/FrontendCapstone.git/index.html",
+    "main.073c9b0a.css.map": "/asimshakoor11/FrontendCapstone.git/static/css/main.073c9b0a.css.map",
+    "main.4393616a.js.map": "/asimshakoor11/FrontendCapstone.git/static/js/main.4393616a.js.map",
+    "787.62fe34f1.chunk.js.map": "/asimshakoor11/FrontendCapstone.git/static/js/787.62fe34f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4393616a.js"
+  ]
+}
